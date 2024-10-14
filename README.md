@@ -33,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - ⚡️: In my free time, I love to stay active by playing soccer ⚽️, working out 🏋🏻, and bike riding 🚴🏻‍♂️. 
 
-- 📧:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josemontesdeocamorfin/)
+- 📧:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jose-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josemontesdeocamorfin/)
 
 
 ### 🛠️: Languages and Tools :
