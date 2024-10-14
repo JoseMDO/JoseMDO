@@ -24,14 +24,14 @@
 ---
 
 ### 👨🏻‍💻 About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US based in Chicago 🏙️.
 
 
-- 💻: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 💻: I will be working as a Software Developer contributing to the front end and back end to maintain and enhance the primary CMS for my organization across all it's brands.
 
-- 🌱: Exploring Technical Content Writing.
+- 🌱: Committed to being a catalyst for change in my community.
 
-- ⚡️: In my free time, I love to stay active and play soccer, workout, and bike riding. 
+- ⚡️: In my free time, I love to stay active by playing soccer ⚽️, working out 🏋🏻, and bike riding 🚴🏻‍♂️. 
 
 - 📧:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josemontesdeocamorfin/)
 
