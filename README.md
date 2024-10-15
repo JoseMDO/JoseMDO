@@ -10,7 +10,7 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=josemdo&style=flat-square&color=blue" alt=""/>
     <h1>
-        hey there
+        Hey there
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
     <div align="center">
@@ -62,3 +62,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemdo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Jose's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=josemdo)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=josemdo)](https://github.com/josemdo/github-profile-trophy)
