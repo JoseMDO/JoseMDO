@@ -24,7 +24,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US based in Chicago 🏙️.
 
 
-- 💻: I will be working as a Software Developer contributing to the front end and back end to maintain and enhance the primary CMS for my organization across all it's brands.
+- 💻: I am working as a Software Developer contributing to the front end and back end to maintain and enhance the primary CMS for my organization across all it's brands.
 
 - 🌱: Committed to being a catalyst for change in my community.
 
