@@ -67,5 +67,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![Jose's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=josemdo)
 
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=josemdo)](https://github.com/josemdo/github-profile-trophy)
